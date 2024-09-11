@@ -1,4 +1,4 @@
 # my-first-repo
 [zuyd.nl](url)
-![RandomLuchtFoto](url) 
+![RandomLuchtFoto.png](url) 
 ##Jazeeeeeeeeeker
